@@ -1,1 +1,13 @@
 vendor
+web/core
+web/sites/default/files
+web/sites/default/settings.local.php
+web/sites/default/settings.php
+web/sites/IBT.dd
+web/sites/development.services.yml
+web/web.config
+web/.eslintrc.json
+web/modules/contrib
+web/.csslintrc
+web/.editorconfig
+web/.eslintignore
