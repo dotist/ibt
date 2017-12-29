@@ -1,0 +1,13 @@
+name: IBT UI
+type: theme
+description: IBT UI Theme
+package: Other
+core: 8.x
+libraries:
+  - ibt_ui/global-styling
+
+base theme: basic
+
+regions:
+  content: Content
+  header: Header
