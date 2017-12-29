@@ -11,3 +11,4 @@ web/modules/contrib
 web/.csslintrc
 web/.editorconfig
 web/.eslintignore
+web/themes/contrib
