@@ -1,0 +1,20 @@
+uuid: f8cae4ce-6a84-4f5f-8528-66704ee094df
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ibt_ui
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: ibt_ui_page_title
+theme: ibt_ui
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

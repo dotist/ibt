@@ -1,0 +1,22 @@
+uuid: 641e1aff-496e-482f-9963-38c6f2115f7a
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - ibt_ui
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: ibt_ui_help
+theme: ibt_ui
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

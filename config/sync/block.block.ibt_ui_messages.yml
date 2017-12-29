@@ -1,0 +1,22 @@
+uuid: 753e7165-c3f3-49f4-806a-a50ebeee4621
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ibt_ui
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: ibt_ui_messages
+theme: ibt_ui
+region: content
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

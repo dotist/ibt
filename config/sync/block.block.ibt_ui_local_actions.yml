@@ -1,0 +1,20 @@
+uuid: 36dbc60f-17e4-4499-a43a-9cfaba54b8f2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ibt_ui
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: ibt_ui_local_actions
+theme: ibt_ui
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }
