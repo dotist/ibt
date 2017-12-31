@@ -12,3 +12,4 @@ web/.csslintrc
 web/.editorconfig
 web/.eslintignore
 web/themes/contrib
+web/themes/ibt_ui/node_modules

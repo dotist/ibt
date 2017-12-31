@@ -1,13 +1,15 @@
 name: IBT UI
 type: theme
 description: IBT UI Theme
-package: Other
+package: ibt
 core: 8.x
 libraries:
-  - ibt_ui/global-styling
+  - ibt_ui/global-css
+  - ibt_ui/global-js
 
 base theme: basic
 
 regions:
-  content: Content
   header: Header
+  content: Content
+  footer: Footer

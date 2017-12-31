@@ -1,0 +1,14 @@
+.promo_item {
+  border: 2px dashed #00f;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ff0;
+}
+.promo_item-white {
+  background-color: #fff;
+  color: #111;
+}
+.promo_item-green {
+  background-color: #008000;
+  color: #eee;
+}
